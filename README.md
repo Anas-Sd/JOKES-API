@@ -4,7 +4,7 @@
 
 *Click a button. Get a laugh. It's that simple.*
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Jokes_Generator-FF6B6B?style=for-the-badge)](https://your-demo-link.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Jokes_Generator-FF6B6B?style=for-the-badge)](https://navvuko.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/Anas-Sd/Jokes-API?style=for-the-badge&color=gold)](https://github.com/Anas-Sd/Jokes-API)
 [![GitHub Forks](https://img.shields.io/github/forks/Anas-Sd/Jokes-API?style=for-the-badge&color=8B5CF6)](https://github.com/Anas-Sd/Jokes-API)
