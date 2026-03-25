@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: rgb(254, 207, 141);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: white;
+  padding: 10px 100px;
+  border-radius: 30px;
+
+  display: flex;
+  flex-direction: column;   /* stack items vertically */
+  align-items: center;      /* center horizontally */
+  /* gap: 20px;                space between heading & button */
+}
+
+.header {
+  margin: 0 0 30px 0;
+  font-size: 36px;
+  
+}
+
+.result
+{
+  background-color: rgb(211, 211, 176);
+  /* color: white; */
+  border-color: black;
+  border-radius:15px;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: larger;
+}
+
+.bottomline
+{
+  margin-top: -20px;
+  color: gray;
+}
+
+.btn {
+  padding: 12px 24px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  color: white;
+  font-weight: bolder;
+  background-color: rgb(7, 1, 9);
+}
